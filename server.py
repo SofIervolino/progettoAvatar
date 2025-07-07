@@ -34,7 +34,7 @@ PORT = int(os.environ.get("PORT", 8000))
 # 2) Caricamento Modello LLM (senza fine-tuning)
 #################################
 model_path = "mistralai/Mistral-7B-Instruct-v0.2" #Cambia col modello open-source che preferisci
-hf_token = "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" #Token Hugging Face se serve
+hf_token = "Aggiungere le Api" #Token Hugging Face se serve
 
 logger.info(f"Carico il modello pre-addestrato: {model_path}")
 

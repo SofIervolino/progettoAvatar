@@ -1,0 +1,12 @@
+# Evita file di grandi dimensioni e inutili
+llama3-env/
+__pycache__/
+*.pyc
+*.pkl
+*.pickle
+*.h5
+*.ckpt
+*.pt
+*.joblib
+*.ipynb_checkpoints/
+nltk_data/

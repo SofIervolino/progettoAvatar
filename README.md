@@ -16,7 +16,7 @@ python -m venv llama_env
 source llama_env/bin/activate  # Su Windows: llama_env\Scripts\activate
 ```
 
-**Installazione Dipendenze**
+**Installazione Dipendenze** /n
 Assicurati di essere nell’ambiente virtuale, quindi installa i pacchetti necessari:
 ```bash
 pip install -r requirements.txt

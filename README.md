@@ -11,6 +11,7 @@
 - Il funzionamento descritto è stato testato con successo nell’ambiente `llama3-env` su Jupyter GPU fornito dall’università.
 
 
+
 **Setup Ambiente Virtuale**
 
 Puoi usare un nome qualsiasi per l’ambiente virtuale (ad esempio `llama_env`, `venv`, `mio_env`):

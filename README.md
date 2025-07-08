@@ -69,7 +69,7 @@ python server.py
 E' stato usato il file `Test.ipynb` per porre domande in linguaggio naturale e ottenere risposte basate sul contenuto del PDF.
 Il server FastAPI sarà avviato e pronto a ricevere richieste.
 
-
+-------------
 1. Si consiglia di creare un ambiente virtuale
 python -m venv llama_env
 

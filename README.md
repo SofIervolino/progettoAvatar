@@ -3,6 +3,7 @@
 - Account Hugging Face (per accedere al modello)
 - Accesso a una GPU (consigliato)
 - PDF da analizzare (`allProva2.pdf` nella root del progetto)
+
   
  **Nota per l'esecuzione**
  

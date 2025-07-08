@@ -66,6 +66,7 @@ python server.py
 Il server FastAPI sarà avviato e pronto a ricevere richieste.
 
 **Interrogare il Modello**
+
 E' stato usato il file `Test.ipynb` per porre domande in linguaggio naturale e ottenere risposte basate sul contenuto del PDF.
 
 
